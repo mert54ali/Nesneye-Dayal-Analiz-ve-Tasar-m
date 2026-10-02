@@ -1,0 +1,604 @@
+<<<<<<< HEAD
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="tasarimproje.Patterns.Behavioral.ArasKargoStratejisi" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="38.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Desenler\Davranışlar\ArasKargoStratejisi.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="tasarimproje.Patterns.Behavioral.PurchasingObserver" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="59" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Desenler\Davranışlar\Gozlemciler.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="tasarimproje.Patterns.Behavioral.WarehouseObserver" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="16.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Desenler\Davranışlar\Gozlemciler.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="tasarimproje.Patterns.Behavioral.MngKargoStratejisi" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="7.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Desenler\Davranışlar\MngKargoStratejisi.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="tasarimproje.Patterns.Behavioral.CreditCardPayment" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="9.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Desenler\Davranışlar\OdemeStratejileri.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="tasarimproje.Patterns.Behavioral.BankTransferPayment" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="50" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Desenler\Davranışlar\OdemeStratejileri.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="tasarimproje.Patterns.Behavioral.CryptoPayment" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="18.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Desenler\Davranışlar\OdemeStratejileri.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="tasarimproje.Patterns.Behavioral.PendingState" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="20.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAQAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Desenler\Davranışlar\SiparisDurumlari.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="tasarimproje.Patterns.Behavioral.ApprovedState" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAQAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Desenler\Davranışlar\SiparisDurumlari.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="tasarimproje.Patterns.Behavioral.PreparingState" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="27.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAQAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Desenler\Davranışlar\SiparisDurumlari.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="tasarimproje.Patterns.Behavioral.ShippedState" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="23" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAQAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Desenler\Davranışlar\SiparisDurumlari.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="tasarimproje.Patterns.Behavioral.DeliveredState" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="29.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAQAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Desenler\Davranışlar\SiparisDurumlari.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="tasarimproje.Patterns.Behavioral.ReturnedState" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="11.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAQAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Desenler\Davranışlar\SiparisDurumlari.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="tasarimproje.Patterns.Behavioral.YurticiKargoStratejisi" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="52.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Desenler\Davranışlar\YurticiKargoStratejisi.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="tasarimproje.Patterns.Structural.ArasAdapter" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="25.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAEAAAAAIAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Desenler\Yapısal\KargoAdaptorleri.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="tasarimproje.Patterns.Structural.YurticiAdapter" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="32" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Desenler\Yapısal\KargoAdaptorleri.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="tasarimproje.Patterns.Structural.CargoPriceDecorator" Collapsed="true">
+    <Position X="1.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAIIAAAAAAAAAAAA=</HashCode>
+      <FileName>Desenler\Yapısal\KargoDekoratorleri.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="tasarimproje.Patterns.Structural.InsuredCargoDecorator" Collapsed="true">
+    <Position X="0.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAA=</HashCode>
+      <FileName>Desenler\Yapısal\KargoDekoratorleri.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="tasarimproje.Patterns.Structural.FragileCargoDecorator" Collapsed="true">
+    <Position X="2.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAA=</HashCode>
+      <FileName>Desenler\Yapısal\KargoDekoratorleri.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="tasarimproje.Patterns.Structural.SingleProduct" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="34.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAIAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAABAA=</HashCode>
+      <FileName>Desenler\Yapısal\MontajliUrun.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="tasarimproje.Patterns.Structural.ProductBundle" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="41" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAABAAIAAAEAAAQAAAAAAAAAAAAAAAAAAABAA=</HashCode>
+      <FileName>Desenler\Yapısal\MontajliUrun.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="tasarimproje.Patterns.Creational.Loglayici" Collapsed="true">
+    <Position X="61.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAAAAAAgAAAAAAAAAAgAAAAAQAAAAAAAAAA=</HashCode>
+      <FileName>Desenler\Yaratımsal\Loglayici.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="tasarimproje.Patterns.Creational.ComputerBuilder" Collapsed="true">
+    <Position X="63.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAEAAAAAAAAAAAAAAAAAAAAAAAAAhAAAAIAAAAAAAAA=</HashCode>
+      <FileName>Desenler\Yaratımsal\UrunUretici.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="tasarimproje.Controllers.SiparisKontrolcusu" Collapsed="true">
+    <Position X="54.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAQAAAAAAAAAAIAAAAAAAQAgAAAAAAAAAA=</HashCode>
+      <FileName>Kontrolcüler\SiparisKontrolcusu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="tasarimproje.Models.Siparis" Collapsed="true">
+    <Position X="43.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EgAABAAAQAAAAAAAAAAAAAAEAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Modeller\Siparis.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="tasarimproje.Models.Urun" Collapsed="true">
+    <Position X="14" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQACAAAAAQAAAAAAAAAAAIQAAACAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Modeller\Urun.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="tasarimproje.Services.ArasApi" Collapsed="true">
+    <Position X="36.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAA=</HashCode>
+      <FileName>Servisler\DisKargoApileri.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="tasarimproje.Services.YurticiApi" Collapsed="true">
+    <Position X="45.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Servisler\DisKargoApileri.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="tasarimproje.Services.EnvanterServisi" Collapsed="true">
+    <Position X="47.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Servisler\EnvanterServisi.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="tasarimproje.Services.TemelKargoFiyati" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="65.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAA=</HashCode>
+      <FileName>Servisler\TemelKargoFiyati.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="tasarimproje.Form1" Collapsed="true">
+    <Position X="68.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAACAAIFEQAACAAEBCAAAYAAAgEmQQAAEBAAA=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="tasarimproje.Program" Collapsed="true">
+    <Position X="56.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="System.Object" Collapsed="true">
+    <Position X="33" Y="0.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Interface Name="tasarimproje.Interfaces.IGozlemci" Collapsed="true">
+    <Position X="68.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Arayüzler\IGozlemci.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="tasarimproje.Interfaces.IKargoFiyati" Collapsed="true">
+    <Position X="70" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAA=</HashCode>
+      <FileName>Arayüzler\IKargoFiyati.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="tasarimproje.Interfaces.IKargoSaglayici" Collapsed="true">
+    <Position X="71.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Arayüzler\IKargoSaglayici.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="tasarimproje.Interfaces.IOdemeStratejisi" Collapsed="true">
+    <Position X="70" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Arayüzler\IOdemeStratejisi.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="tasarimproje.Interfaces.ISiparisDurumu" Collapsed="true">
+    <Position X="68.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAQAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Arayüzler\ISiparisDurumu.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="IKargoStratejisi" Collapsed="true">
+    <Position X="68.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Arayüzler\IKargoStratejisi.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="tasarimproje.Patterns.Structural.IProductComponent" Collapsed="true">
+    <Position X="71.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAABAA=</HashCode>
+      <FileName>Desenler\Yapısal\MontajliUrun.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="8.83" />
+=======
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="tasarimproje.Patterns.Behavioral.ArasKargoStratejisi" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="38.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Desenler\Davranışlar\ArasKargoStratejisi.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="tasarimproje.Patterns.Behavioral.PurchasingObserver" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="59" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Desenler\Davranışlar\Gozlemciler.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="tasarimproje.Patterns.Behavioral.WarehouseObserver" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="16.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Desenler\Davranışlar\Gozlemciler.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="tasarimproje.Patterns.Behavioral.MngKargoStratejisi" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="7.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Desenler\Davranışlar\MngKargoStratejisi.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="tasarimproje.Patterns.Behavioral.CreditCardPayment" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="9.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Desenler\Davranışlar\OdemeStratejileri.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="tasarimproje.Patterns.Behavioral.BankTransferPayment" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="50" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Desenler\Davranışlar\OdemeStratejileri.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="tasarimproje.Patterns.Behavioral.CryptoPayment" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="18.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Desenler\Davranışlar\OdemeStratejileri.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="tasarimproje.Patterns.Behavioral.PendingState" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="20.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAQAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Desenler\Davranışlar\SiparisDurumlari.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="tasarimproje.Patterns.Behavioral.ApprovedState" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAQAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Desenler\Davranışlar\SiparisDurumlari.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="tasarimproje.Patterns.Behavioral.PreparingState" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="27.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAQAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Desenler\Davranışlar\SiparisDurumlari.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="tasarimproje.Patterns.Behavioral.ShippedState" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="23" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAQAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Desenler\Davranışlar\SiparisDurumlari.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="tasarimproje.Patterns.Behavioral.DeliveredState" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="29.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAQAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Desenler\Davranışlar\SiparisDurumlari.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="tasarimproje.Patterns.Behavioral.ReturnedState" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="11.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAQAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Desenler\Davranışlar\SiparisDurumlari.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="tasarimproje.Patterns.Behavioral.YurticiKargoStratejisi" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="52.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Desenler\Davranışlar\YurticiKargoStratejisi.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="tasarimproje.Patterns.Structural.ArasAdapter" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="25.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAEAAAAAIAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Desenler\Yapısal\KargoAdaptorleri.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="tasarimproje.Patterns.Structural.YurticiAdapter" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="32" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Desenler\Yapısal\KargoAdaptorleri.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="tasarimproje.Patterns.Structural.CargoPriceDecorator" Collapsed="true">
+    <Position X="1.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAIIAAAAAAAAAAAA=</HashCode>
+      <FileName>Desenler\Yapısal\KargoDekoratorleri.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="tasarimproje.Patterns.Structural.InsuredCargoDecorator" Collapsed="true">
+    <Position X="0.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAA=</HashCode>
+      <FileName>Desenler\Yapısal\KargoDekoratorleri.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="tasarimproje.Patterns.Structural.FragileCargoDecorator" Collapsed="true">
+    <Position X="2.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAA=</HashCode>
+      <FileName>Desenler\Yapısal\KargoDekoratorleri.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="tasarimproje.Patterns.Structural.SingleProduct" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="34.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAIAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAABAA=</HashCode>
+      <FileName>Desenler\Yapısal\MontajliUrun.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="tasarimproje.Patterns.Structural.ProductBundle" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="41" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAABAAIAAAEAAAQAAAAAAAAAAAAAAAAAAABAA=</HashCode>
+      <FileName>Desenler\Yapısal\MontajliUrun.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="tasarimproje.Patterns.Creational.Loglayici" Collapsed="true">
+    <Position X="61.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAAAAAAgAAAAAAAAAAgAAAAAQAAAAAAAAAA=</HashCode>
+      <FileName>Desenler\Yaratımsal\Loglayici.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="tasarimproje.Patterns.Creational.ComputerBuilder" Collapsed="true">
+    <Position X="63.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAEAAAAAAAAAAAAAAAAAAAAAAAAAhAAAAIAAAAAAAAA=</HashCode>
+      <FileName>Desenler\Yaratımsal\UrunUretici.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="tasarimproje.Controllers.SiparisKontrolcusu" Collapsed="true">
+    <Position X="54.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAQAAAAAAAAAAIAAAAAAAQAgAAAAAAAAAA=</HashCode>
+      <FileName>Kontrolcüler\SiparisKontrolcusu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="tasarimproje.Models.Siparis" Collapsed="true">
+    <Position X="43.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EgAABAAAQAAAAAAAAAAAAAAEAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Modeller\Siparis.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="tasarimproje.Models.Urun" Collapsed="true">
+    <Position X="14" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQACAAAAAQAAAAAAAAAAAIQAAACAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Modeller\Urun.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="tasarimproje.Services.ArasApi" Collapsed="true">
+    <Position X="36.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAA=</HashCode>
+      <FileName>Servisler\DisKargoApileri.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="tasarimproje.Services.YurticiApi" Collapsed="true">
+    <Position X="45.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Servisler\DisKargoApileri.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="tasarimproje.Services.EnvanterServisi" Collapsed="true">
+    <Position X="47.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Servisler\EnvanterServisi.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="tasarimproje.Services.TemelKargoFiyati" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="65.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAA=</HashCode>
+      <FileName>Servisler\TemelKargoFiyati.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="tasarimproje.Form1" Collapsed="true">
+    <Position X="68.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAACAAIFEQAACAAEBCAAAYAAAgEmQQAAEBAAA=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="tasarimproje.Program" Collapsed="true">
+    <Position X="56.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="System.Object" Collapsed="true">
+    <Position X="33" Y="0.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Interface Name="tasarimproje.Interfaces.IGozlemci" Collapsed="true">
+    <Position X="68.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Arayüzler\IGozlemci.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="tasarimproje.Interfaces.IKargoFiyati" Collapsed="true">
+    <Position X="70" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAA=</HashCode>
+      <FileName>Arayüzler\IKargoFiyati.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="tasarimproje.Interfaces.IKargoSaglayici" Collapsed="true">
+    <Position X="71.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Arayüzler\IKargoSaglayici.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="tasarimproje.Interfaces.IOdemeStratejisi" Collapsed="true">
+    <Position X="70" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Arayüzler\IOdemeStratejisi.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="tasarimproje.Interfaces.ISiparisDurumu" Collapsed="true">
+    <Position X="68.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAQAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Arayüzler\ISiparisDurumu.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="IKargoStratejisi" Collapsed="true">
+    <Position X="68.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Arayüzler\IKargoStratejisi.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="tasarimproje.Patterns.Structural.IProductComponent" Collapsed="true">
+    <Position X="71.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAABAA=</HashCode>
+      <FileName>Desenler\Yapısal\MontajliUrun.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="8.83" />
+>>>>>>> a0005938bba87bf4dba2d87124c65b16e14df65d
+</ClassDiagram>

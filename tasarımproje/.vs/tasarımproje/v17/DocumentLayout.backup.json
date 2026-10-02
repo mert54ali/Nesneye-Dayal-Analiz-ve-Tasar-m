@@ -1,0 +1,553 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mert Ali \u00D6zbek\\Desktop\\tasar\u0131mproje\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CF956255-EEC0-4C62-8651-7722EC55AF7D}|tasarimproje.csproj|c:\\users\\mert ali \u00F6zbek\\desktop\\tasar\u0131mproje\\desenler\\davran\u0131\u015Flar\\siparisdurumlari.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF956255-EEC0-4C62-8651-7722EC55AF7D}|tasarimproje.csproj|solutionrelative:desenler\\davran\u0131\u015Flar\\siparisdurumlari.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF956255-EEC0-4C62-8651-7722EC55AF7D}|tasarimproje.csproj|c:\\users\\mert ali \u00F6zbek\\desktop\\tasar\u0131mproje\\desenler\\yap\u0131sal\\kargoadaptorleri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF956255-EEC0-4C62-8651-7722EC55AF7D}|tasarimproje.csproj|solutionrelative:desenler\\yap\u0131sal\\kargoadaptorleri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF956255-EEC0-4C62-8651-7722EC55AF7D}|tasarimproje.csproj|c:\\users\\mert ali \u00F6zbek\\desktop\\tasar\u0131mproje\\desenler\\yap\u0131sal\\montajliurun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF956255-EEC0-4C62-8651-7722EC55AF7D}|tasarimproje.csproj|solutionrelative:desenler\\yap\u0131sal\\montajliurun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF956255-EEC0-4C62-8651-7722EC55AF7D}|tasarimproje.csproj|c:\\users\\mert ali \u00F6zbek\\desktop\\tasar\u0131mproje\\desenler\\yarat\u0131msal\\loglayici.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF956255-EEC0-4C62-8651-7722EC55AF7D}|tasarimproje.csproj|solutionrelative:desenler\\yarat\u0131msal\\loglayici.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF956255-EEC0-4C62-8651-7722EC55AF7D}|tasarimproje.csproj|c:\\users\\mert ali \u00F6zbek\\desktop\\tasar\u0131mproje\\modeller\\siparis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF956255-EEC0-4C62-8651-7722EC55AF7D}|tasarimproje.csproj|solutionrelative:modeller\\siparis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D3BE4A2-AA81-4CD3-B41E-902DA32A9050}|..\\tasarimproje.Tests\\tasarimproje.Tests.csproj|c:\\users\\mert ali \u00F6zbek\\desktop\\tasarimproje.tests\\test1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF956255-EEC0-4C62-8651-7722EC55AF7D}|tasarimproje.csproj|c:\\users\\mert ali \u00F6zbek\\desktop\\tasar\u0131mproje\\desenler\\yarat\u0131msal\\urunuretici.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF956255-EEC0-4C62-8651-7722EC55AF7D}|tasarimproje.csproj|solutionrelative:desenler\\yarat\u0131msal\\urunuretici.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF956255-EEC0-4C62-8651-7722EC55AF7D}|tasarimproje.csproj|C:\\Users\\Mert Ali \u00D6zbek\\Desktop\\tasar\u0131mproje\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CF956255-EEC0-4C62-8651-7722EC55AF7D}|tasarimproje.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF956255-EEC0-4C62-8651-7722EC55AF7D}|tasar\u0131mproje.csproj|C:\\Users\\Mert Ali \u00D6zbek\\Desktop\\tasar\u0131mproje\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CF956255-EEC0-4C62-8651-7722EC55AF7D}|tasar\u0131mproje.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF956255-EEC0-4C62-8651-7722EC55AF7D}|tasarimproje.csproj|c:\\users\\mert ali \u00F6zbek\\desktop\\tasar\u0131mproje\\aray\u00FCzler\\ikargostratejisi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF956255-EEC0-4C62-8651-7722EC55AF7D}|tasarimproje.csproj|solutionrelative:aray\u00FCzler\\ikargostratejisi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF956255-EEC0-4C62-8651-7722EC55AF7D}|tasarimproje.csproj|c:\\users\\mert ali \u00F6zbek\\desktop\\tasar\u0131mproje\\tasarimproje.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CF956255-EEC0-4C62-8651-7722EC55AF7D}|tasarimproje.csproj|solutionrelative:tasarimproje.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF956255-EEC0-4C62-8651-7722EC55AF7D}|tasarimproje.csproj|c:\\users\\mert ali \u00F6zbek\\desktop\\tasar\u0131mproje\\classdiagram1.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{CF956255-EEC0-4C62-8651-7722EC55AF7D}|tasarimproje.csproj|solutionrelative:classdiagram1.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D3BE4A2-AA81-4CD3-B41E-902DA32A9050}|..\\tasarimproje.Tests\\tasarimproje.Tests.csproj|c:\\users\\mert ali \u00F6zbek\\desktop\\tasarimproje.tests\\mstestsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF956255-EEC0-4C62-8651-7722EC55AF7D}|tasarimproje.csproj|c:\\users\\mert ali \u00F6zbek\\desktop\\tasar\u0131mproje\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF956255-EEC0-4C62-8651-7722EC55AF7D}|tasarimproje.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF956255-EEC0-4C62-8651-7722EC55AF7D}|tasarimproje.csproj|c:\\users\\mert ali \u00F6zbek\\desktop\\tasar\u0131mproje\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF956255-EEC0-4C62-8651-7722EC55AF7D}|tasarimproje.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF956255-EEC0-4C62-8651-7722EC55AF7D}|tasarimproje.csproj|c:\\users\\mert ali \u00F6zbek\\desktop\\tasar\u0131mproje\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF956255-EEC0-4C62-8651-7722EC55AF7D}|tasarimproje.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF956255-EEC0-4C62-8651-7722EC55AF7D}|tasarimproje.csproj|c:\\users\\mert ali \u00F6zbek\\desktop\\tasar\u0131mproje\\servisler\\temelkargofiyati.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF956255-EEC0-4C62-8651-7722EC55AF7D}|tasarimproje.csproj|solutionrelative:servisler\\temelkargofiyati.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF956255-EEC0-4C62-8651-7722EC55AF7D}|tasarimproje.csproj|c:\\users\\mert ali \u00F6zbek\\desktop\\tasar\u0131mproje\\servisler\\envanterservisi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF956255-EEC0-4C62-8651-7722EC55AF7D}|tasarimproje.csproj|solutionrelative:servisler\\envanterservisi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF956255-EEC0-4C62-8651-7722EC55AF7D}|tasarimproje.csproj|c:\\users\\mert ali \u00F6zbek\\desktop\\tasar\u0131mproje\\servisler\\diskargoapileri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF956255-EEC0-4C62-8651-7722EC55AF7D}|tasarimproje.csproj|solutionrelative:servisler\\diskargoapileri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF956255-EEC0-4C62-8651-7722EC55AF7D}|tasarimproje.csproj|c:\\users\\mert ali \u00F6zbek\\desktop\\tasar\u0131mproje\\modeller\\urun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF956255-EEC0-4C62-8651-7722EC55AF7D}|tasarimproje.csproj|solutionrelative:modeller\\urun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF956255-EEC0-4C62-8651-7722EC55AF7D}|tasarimproje.csproj|c:\\users\\mert ali \u00F6zbek\\desktop\\tasar\u0131mproje\\kontrolc\u00FCler\\sipariskontrolcusu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF956255-EEC0-4C62-8651-7722EC55AF7D}|tasarimproje.csproj|solutionrelative:kontrolc\u00FCler\\sipariskontrolcusu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF956255-EEC0-4C62-8651-7722EC55AF7D}|tasarimproje.csproj|c:\\users\\mert ali \u00F6zbek\\desktop\\tasar\u0131mproje\\desenler\\yap\u0131sal\\kargodekoratorleri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF956255-EEC0-4C62-8651-7722EC55AF7D}|tasarimproje.csproj|solutionrelative:desenler\\yap\u0131sal\\kargodekoratorleri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF956255-EEC0-4C62-8651-7722EC55AF7D}|tasarimproje.csproj|c:\\users\\mert ali \u00F6zbek\\desktop\\tasar\u0131mproje\\desenler\\davran\u0131\u015Flar\\yurticikargostratejisi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF956255-EEC0-4C62-8651-7722EC55AF7D}|tasarimproje.csproj|solutionrelative:desenler\\davran\u0131\u015Flar\\yurticikargostratejisi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF956255-EEC0-4C62-8651-7722EC55AF7D}|tasarimproje.csproj|c:\\users\\mert ali \u00F6zbek\\desktop\\tasar\u0131mproje\\desenler\\davran\u0131\u015Flar\\odemestratejileri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF956255-EEC0-4C62-8651-7722EC55AF7D}|tasarimproje.csproj|solutionrelative:desenler\\davran\u0131\u015Flar\\odemestratejileri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF956255-EEC0-4C62-8651-7722EC55AF7D}|tasarimproje.csproj|c:\\users\\mert ali \u00F6zbek\\desktop\\tasar\u0131mproje\\desenler\\davran\u0131\u015Flar\\mngkargostratejisi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF956255-EEC0-4C62-8651-7722EC55AF7D}|tasarimproje.csproj|solutionrelative:desenler\\davran\u0131\u015Flar\\mngkargostratejisi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF956255-EEC0-4C62-8651-7722EC55AF7D}|tasarimproje.csproj|c:\\users\\mert ali \u00F6zbek\\desktop\\tasar\u0131mproje\\desenler\\davran\u0131\u015Flar\\gozlemciler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF956255-EEC0-4C62-8651-7722EC55AF7D}|tasarimproje.csproj|solutionrelative:desenler\\davran\u0131\u015Flar\\gozlemciler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF956255-EEC0-4C62-8651-7722EC55AF7D}|tasarimproje.csproj|c:\\users\\mert ali \u00F6zbek\\desktop\\tasar\u0131mproje\\desenler\\davran\u0131\u015Flar\\araskargostratejisi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF956255-EEC0-4C62-8651-7722EC55AF7D}|tasarimproje.csproj|solutionrelative:desenler\\davran\u0131\u015Flar\\araskargostratejisi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF956255-EEC0-4C62-8651-7722EC55AF7D}|tasarimproje.csproj|c:\\users\\mert ali \u00F6zbek\\desktop\\tasar\u0131mproje\\aray\u00FCzler\\isiparisdurumu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF956255-EEC0-4C62-8651-7722EC55AF7D}|tasarimproje.csproj|solutionrelative:aray\u00FCzler\\isiparisdurumu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF956255-EEC0-4C62-8651-7722EC55AF7D}|tasarimproje.csproj|c:\\users\\mert ali \u00F6zbek\\desktop\\tasar\u0131mproje\\aray\u00FCzler\\iodemestratejisi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF956255-EEC0-4C62-8651-7722EC55AF7D}|tasarimproje.csproj|solutionrelative:aray\u00FCzler\\iodemestratejisi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF956255-EEC0-4C62-8651-7722EC55AF7D}|tasarimproje.csproj|c:\\users\\mert ali \u00F6zbek\\desktop\\tasar\u0131mproje\\aray\u00FCzler\\ikargosaglayici.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF956255-EEC0-4C62-8651-7722EC55AF7D}|tasarimproje.csproj|solutionrelative:aray\u00FCzler\\ikargosaglayici.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF956255-EEC0-4C62-8651-7722EC55AF7D}|tasarimproje.csproj|c:\\users\\mert ali \u00F6zbek\\desktop\\tasar\u0131mproje\\aray\u00FCzler\\ikargofiyati.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF956255-EEC0-4C62-8651-7722EC55AF7D}|tasarimproje.csproj|solutionrelative:aray\u00FCzler\\ikargofiyati.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF956255-EEC0-4C62-8651-7722EC55AF7D}|tasarimproje.csproj|c:\\users\\mert ali \u00F6zbek\\desktop\\tasar\u0131mproje\\aray\u00FCzler\\igozlemci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF956255-EEC0-4C62-8651-7722EC55AF7D}|tasarimproje.csproj|solutionrelative:aray\u00FCzler\\igozlemci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D3BE4A2-AA81-4CD3-B41E-902DA32A9050}|..\\tasarimproje.Tests\\tasarimproje.Tests.csproj|c:\\users\\mert ali \u00F6zbek\\desktop\\tasarimproje.tests\\tasarimproje.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 25,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MSTestSettings.cs",
+              "DocumentMoniker": "C:\\Users\\Mert Ali \u00D6zbek\\Desktop\\tasarimproje.Tests\\MSTestSettings.cs",
+              "RelativeDocumentMoniker": "..\\tasarimproje.Tests\\MSTestSettings.cs",
+              "ToolTip": "C:\\Users\\Mert Ali \u00D6zbek\\Desktop\\tasarimproje.Tests\\MSTestSettings.cs",
+              "RelativeToolTip": "..\\tasarimproje.Tests\\MSTestSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T14:35:01.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Mert Ali \u00D6zbek\\Desktop\\tasar\u0131mproje\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Mert Ali \u00D6zbek\\Desktop\\tasar\u0131mproje\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T14:33:22.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ClassDiagram1.png",
+              "DocumentMoniker": "C:\\Users\\Mert Ali \u00D6zbek\\Desktop\\tasar\u0131mproje\\ClassDiagram1.png",
+              "RelativeDocumentMoniker": "ClassDiagram1.png",
+              "ToolTip": "C:\\Users\\Mert Ali \u00D6zbek\\Desktop\\tasar\u0131mproje\\ClassDiagram1.png",
+              "RelativeToolTip": "ClassDiagram1.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2026-05-09T14:27:41.725Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "tasarimproje.Tests.csproj",
+              "DocumentMoniker": "C:\\Users\\Mert Ali \u00D6zbek\\Desktop\\tasarimproje.Tests\\tasarimproje.Tests.csproj",
+              "RelativeDocumentMoniker": "..\\tasarimproje.Tests\\tasarimproje.Tests.csproj",
+              "ToolTip": "C:\\Users\\Mert Ali \u00D6zbek\\Desktop\\tasarimproje.Tests\\tasarimproje.Tests.csproj",
+              "RelativeToolTip": "..\\tasarimproje.Tests\\tasarimproje.Tests.csproj",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAuwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-09T13:17:44.407Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Test1.cs",
+              "DocumentMoniker": "C:\\Users\\Mert Ali \u00D6zbek\\Desktop\\tasarimproje.Tests\\Test1.cs",
+              "RelativeDocumentMoniker": "..\\tasarimproje.Tests\\Test1.cs",
+              "ToolTip": "C:\\Users\\Mert Ali \u00D6zbek\\Desktop\\tasarimproje.Tests\\Test1.cs",
+              "RelativeToolTip": "..\\tasarimproje.Tests\\Test1.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T12:53:09.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MontajliUrun.cs",
+              "DocumentMoniker": "C:\\Users\\Mert Ali \u00D6zbek\\Desktop\\tasar\u0131mproje\\Desenler\\Yap\u0131sal\\MontajliUrun.cs",
+              "RelativeDocumentMoniker": "Desenler\\Yap\u0131sal\\MontajliUrun.cs",
+              "ToolTip": "C:\\Users\\Mert Ali \u00D6zbek\\Desktop\\tasar\u0131mproje\\Desenler\\Yap\u0131sal\\MontajliUrun.cs",
+              "RelativeToolTip": "Desenler\\Yap\u0131sal\\MontajliUrun.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAAkAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T09:54:17.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "YurticiKargoStratejisi.cs",
+              "DocumentMoniker": "C:\\Users\\Mert Ali \u00D6zbek\\Desktop\\tasar\u0131mproje\\Desenler\\Davran\u0131\u015Flar\\YurticiKargoStratejisi.cs",
+              "RelativeDocumentMoniker": "Desenler\\Davran\u0131\u015Flar\\YurticiKargoStratejisi.cs",
+              "ToolTip": "C:\\Users\\Mert Ali \u00D6zbek\\Desktop\\tasar\u0131mproje\\Desenler\\Davran\u0131\u015Flar\\YurticiKargoStratejisi.cs",
+              "RelativeToolTip": "Desenler\\Davran\u0131\u015Flar\\YurticiKargoStratejisi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T15:04:45.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ArasKargoStratejisi.cs",
+              "DocumentMoniker": "C:\\Users\\Mert Ali \u00D6zbek\\Desktop\\tasar\u0131mproje\\Desenler\\Davran\u0131\u015Flar\\ArasKargoStratejisi.cs",
+              "RelativeDocumentMoniker": "Desenler\\Davran\u0131\u015Flar\\ArasKargoStratejisi.cs",
+              "ToolTip": "C:\\Users\\Mert Ali \u00D6zbek\\Desktop\\tasar\u0131mproje\\Desenler\\Davran\u0131\u015Flar\\ArasKargoStratejisi.cs",
+              "RelativeToolTip": "Desenler\\Davran\u0131\u015Flar\\ArasKargoStratejisi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T15:03:57.28Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "MngKargoStratejisi.cs",
+              "DocumentMoniker": "C:\\Users\\Mert Ali \u00D6zbek\\Desktop\\tasar\u0131mproje\\Desenler\\Davran\u0131\u015Flar\\MngKargoStratejisi.cs",
+              "RelativeDocumentMoniker": "Desenler\\Davran\u0131\u015Flar\\MngKargoStratejisi.cs",
+              "ToolTip": "C:\\Users\\Mert Ali \u00D6zbek\\Desktop\\tasar\u0131mproje\\Desenler\\Davran\u0131\u015Flar\\MngKargoStratejisi.cs",
+              "RelativeToolTip": "Desenler\\Davran\u0131\u015Flar\\MngKargoStratejisi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T15:03:23.587Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IKargoStratejisi.cs",
+              "DocumentMoniker": "C:\\Users\\Mert Ali \u00D6zbek\\Desktop\\tasar\u0131mproje\\Aray\u00FCzler\\IKargoStratejisi.cs",
+              "RelativeDocumentMoniker": "Aray\u00FCzler\\IKargoStratejisi.cs",
+              "ToolTip": "C:\\Users\\Mert Ali \u00D6zbek\\Desktop\\tasar\u0131mproje\\Aray\u00FCzler\\IKargoStratejisi.cs",
+              "RelativeToolTip": "Aray\u00FCzler\\IKargoStratejisi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T15:02:44.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Mert Ali \u00D6zbek\\Desktop\\tasar\u0131mproje\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Mert Ali \u00D6zbek\\Desktop\\tasar\u0131mproje\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T13:15:28.637Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Mert Ali \u00D6zbek\\Desktop\\tasar\u0131mproje\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\Mert Ali \u00D6zbek\\Desktop\\tasar\u0131mproje\\Form1.Designer.cs",
+              "RelativeToolTip": "Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T17:48:07.625Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Mert Ali \u00D6zbek\\Desktop\\tasar\u0131mproje\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Mert Ali \u00D6zbek\\Desktop\\tasar\u0131mproje\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAJgAAAAAAAAAAAAAAKIAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T17:38:14.969Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form1.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Mert Ali \u00D6zbek\\Desktop\\tasar\u0131mproje\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Mert Ali \u00D6zbek\\Desktop\\tasar\u0131mproje\\Form1.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Form1.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T17:35:05.401Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "tasarimproje.csproj",
+              "DocumentMoniker": "C:\\Users\\Mert Ali \u00D6zbek\\Desktop\\tasar\u0131mproje\\tasarimproje.csproj",
+              "RelativeDocumentMoniker": "tasarimproje.csproj",
+              "ToolTip": "C:\\Users\\Mert Ali \u00D6zbek\\Desktop\\tasar\u0131mproje\\tasarimproje.csproj",
+              "RelativeToolTip": "tasarimproje.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-03T16:12:47.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "SiparisKontrolcusu.cs",
+              "DocumentMoniker": "C:\\Users\\Mert Ali \u00D6zbek\\Desktop\\tasar\u0131mproje\\Kontrolc\u00FCler\\SiparisKontrolcusu.cs",
+              "RelativeDocumentMoniker": "Kontrolc\u00FCler\\SiparisKontrolcusu.cs",
+              "ToolTip": "C:\\Users\\Mert Ali \u00D6zbek\\Desktop\\tasar\u0131mproje\\Kontrolc\u00FCler\\SiparisKontrolcusu.cs",
+              "RelativeToolTip": "Kontrolc\u00FCler\\SiparisKontrolcusu.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAIwCEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T15:49:46.042Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UrunUretici.cs",
+              "DocumentMoniker": "C:\\Users\\Mert Ali \u00D6zbek\\Desktop\\tasar\u0131mproje\\Desenler\\Yarat\u0131msal\\UrunUretici.cs",
+              "RelativeDocumentMoniker": "Desenler\\Yarat\u0131msal\\UrunUretici.cs",
+              "ToolTip": "C:\\Users\\Mert Ali \u00D6zbek\\Desktop\\tasar\u0131mproje\\Desenler\\Yarat\u0131msal\\UrunUretici.cs",
+              "RelativeToolTip": "Desenler\\Yarat\u0131msal\\UrunUretici.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T15:39:44.45Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "KargoDekoratorleri.cs",
+              "DocumentMoniker": "C:\\Users\\Mert Ali \u00D6zbek\\Desktop\\tasar\u0131mproje\\Desenler\\Yap\u0131sal\\KargoDekoratorleri.cs",
+              "RelativeDocumentMoniker": "Desenler\\Yap\u0131sal\\KargoDekoratorleri.cs",
+              "ToolTip": "C:\\Users\\Mert Ali \u00D6zbek\\Desktop\\tasar\u0131mproje\\Desenler\\Yap\u0131sal\\KargoDekoratorleri.cs",
+              "RelativeToolTip": "Desenler\\Yap\u0131sal\\KargoDekoratorleri.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAYwCEAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T15:39:05.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "TemelKargoFiyati.cs",
+              "DocumentMoniker": "C:\\Users\\Mert Ali \u00D6zbek\\Desktop\\tasar\u0131mproje\\Servisler\\TemelKargoFiyati.cs",
+              "RelativeDocumentMoniker": "Servisler\\TemelKargoFiyati.cs",
+              "ToolTip": "C:\\Users\\Mert Ali \u00D6zbek\\Desktop\\tasar\u0131mproje\\Servisler\\TemelKargoFiyati.cs",
+              "RelativeToolTip": "Servisler\\TemelKargoFiyati.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T15:38:11.213Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "IKargoFiyati.cs",
+              "DocumentMoniker": "C:\\Users\\Mert Ali \u00D6zbek\\Desktop\\tasar\u0131mproje\\Aray\u00FCzler\\IKargoFiyati.cs",
+              "RelativeDocumentMoniker": "Aray\u00FCzler\\IKargoFiyati.cs",
+              "ToolTip": "C:\\Users\\Mert Ali \u00D6zbek\\Desktop\\tasar\u0131mproje\\Aray\u00FCzler\\IKargoFiyati.cs",
+              "RelativeToolTip": "Aray\u00FCzler\\IKargoFiyati.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T15:37:50.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "KargoAdaptorleri.cs",
+              "DocumentMoniker": "C:\\Users\\Mert Ali \u00D6zbek\\Desktop\\tasar\u0131mproje\\Desenler\\Yap\u0131sal\\KargoAdaptorleri.cs",
+              "RelativeDocumentMoniker": "Desenler\\Yap\u0131sal\\KargoAdaptorleri.cs",
+              "ToolTip": "C:\\Users\\Mert Ali \u00D6zbek\\Desktop\\tasar\u0131mproje\\Desenler\\Yap\u0131sal\\KargoAdaptorleri.cs",
+              "RelativeToolTip": "Desenler\\Yap\u0131sal\\KargoAdaptorleri.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T15:35:16.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "DisKargoApileri.cs",
+              "DocumentMoniker": "C:\\Users\\Mert Ali \u00D6zbek\\Desktop\\tasar\u0131mproje\\Servisler\\DisKargoApileri.cs",
+              "RelativeDocumentMoniker": "Servisler\\DisKargoApileri.cs",
+              "ToolTip": "C:\\Users\\Mert Ali \u00D6zbek\\Desktop\\tasar\u0131mproje\\Servisler\\DisKargoApileri.cs",
+              "RelativeToolTip": "Servisler\\DisKargoApileri.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T15:34:38.93Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "IKargoSaglayici.cs",
+              "DocumentMoniker": "C:\\Users\\Mert Ali \u00D6zbek\\Desktop\\tasar\u0131mproje\\Aray\u00FCzler\\IKargoSaglayici.cs",
+              "RelativeDocumentMoniker": "Aray\u00FCzler\\IKargoSaglayici.cs",
+              "ToolTip": "C:\\Users\\Mert Ali \u00D6zbek\\Desktop\\tasar\u0131mproje\\Aray\u00FCzler\\IKargoSaglayici.cs",
+              "RelativeToolTip": "Aray\u00FCzler\\IKargoSaglayici.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T15:34:06.65Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "OdemeStratejileri.cs",
+              "DocumentMoniker": "C:\\Users\\Mert Ali \u00D6zbek\\Desktop\\tasar\u0131mproje\\Desenler\\Davran\u0131\u015Flar\\OdemeStratejileri.cs",
+              "RelativeDocumentMoniker": "Desenler\\Davran\u0131\u015Flar\\OdemeStratejileri.cs",
+              "ToolTip": "C:\\Users\\Mert Ali \u00D6zbek\\Desktop\\tasar\u0131mproje\\Desenler\\Davran\u0131\u015Flar\\OdemeStratejileri.cs",
+              "RelativeToolTip": "Desenler\\Davran\u0131\u015Flar\\OdemeStratejileri.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAABsAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T15:33:31.153Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SiparisDurumlari.cs",
+              "DocumentMoniker": "C:\\Users\\Mert Ali \u00D6zbek\\Desktop\\tasar\u0131mproje\\Desenler\\Davran\u0131\u015Flar\\SiparisDurumlari.cs",
+              "RelativeDocumentMoniker": "Desenler\\Davran\u0131\u015Flar\\SiparisDurumlari.cs",
+              "ToolTip": "C:\\Users\\Mert Ali \u00D6zbek\\Desktop\\tasar\u0131mproje\\Desenler\\Davran\u0131\u015Flar\\SiparisDurumlari.cs",
+              "RelativeToolTip": "Desenler\\Davran\u0131\u015Flar\\SiparisDurumlari.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T15:31:43.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Siparis.cs",
+              "DocumentMoniker": "C:\\Users\\Mert Ali \u00D6zbek\\Desktop\\tasar\u0131mproje\\Modeller\\Siparis.cs",
+              "RelativeDocumentMoniker": "Modeller\\Siparis.cs",
+              "ToolTip": "C:\\Users\\Mert Ali \u00D6zbek\\Desktop\\tasar\u0131mproje\\Modeller\\Siparis.cs",
+              "RelativeToolTip": "Modeller\\Siparis.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T15:31:04.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ISiparisDurumu.cs",
+              "DocumentMoniker": "C:\\Users\\Mert Ali \u00D6zbek\\Desktop\\tasar\u0131mproje\\Aray\u00FCzler\\ISiparisDurumu.cs",
+              "RelativeDocumentMoniker": "Aray\u00FCzler\\ISiparisDurumu.cs",
+              "ToolTip": "C:\\Users\\Mert Ali \u00D6zbek\\Desktop\\tasar\u0131mproje\\Aray\u00FCzler\\ISiparisDurumu.cs",
+              "RelativeToolTip": "Aray\u00FCzler\\ISiparisDurumu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T15:30:39.241Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "EnvanterServisi.cs",
+              "DocumentMoniker": "C:\\Users\\Mert Ali \u00D6zbek\\Desktop\\tasar\u0131mproje\\Servisler\\EnvanterServisi.cs",
+              "RelativeDocumentMoniker": "Servisler\\EnvanterServisi.cs",
+              "ToolTip": "C:\\Users\\Mert Ali \u00D6zbek\\Desktop\\tasar\u0131mproje\\Servisler\\EnvanterServisi.cs",
+              "RelativeToolTip": "Servisler\\EnvanterServisi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T15:29:58.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Gozlemciler.cs",
+              "DocumentMoniker": "C:\\Users\\Mert Ali \u00D6zbek\\Desktop\\tasar\u0131mproje\\Desenler\\Davran\u0131\u015Flar\\Gozlemciler.cs",
+              "RelativeDocumentMoniker": "Desenler\\Davran\u0131\u015Flar\\Gozlemciler.cs",
+              "ToolTip": "C:\\Users\\Mert Ali \u00D6zbek\\Desktop\\tasar\u0131mproje\\Desenler\\Davran\u0131\u015Flar\\Gozlemciler.cs",
+              "RelativeToolTip": "Desenler\\Davran\u0131\u015Flar\\Gozlemciler.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T15:29:27.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "IGozlemci.cs",
+              "DocumentMoniker": "C:\\Users\\Mert Ali \u00D6zbek\\Desktop\\tasar\u0131mproje\\Aray\u00FCzler\\IGozlemci.cs",
+              "RelativeDocumentMoniker": "Aray\u00FCzler\\IGozlemci.cs",
+              "ToolTip": "C:\\Users\\Mert Ali \u00D6zbek\\Desktop\\tasar\u0131mproje\\Aray\u00FCzler\\IGozlemci.cs",
+              "RelativeToolTip": "Aray\u00FCzler\\IGozlemci.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T15:28:03.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Loglayici.cs",
+              "DocumentMoniker": "C:\\Users\\Mert Ali \u00D6zbek\\Desktop\\tasar\u0131mproje\\Desenler\\Yarat\u0131msal\\Loglayici.cs",
+              "RelativeDocumentMoniker": "Desenler\\Yarat\u0131msal\\Loglayici.cs",
+              "ToolTip": "C:\\Users\\Mert Ali \u00D6zbek\\Desktop\\tasar\u0131mproje\\Desenler\\Yarat\u0131msal\\Loglayici.cs",
+              "RelativeToolTip": "Desenler\\Yarat\u0131msal\\Loglayici.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T15:26:00.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "IOdemeStratejisi.cs",
+              "DocumentMoniker": "C:\\Users\\Mert Ali \u00D6zbek\\Desktop\\tasar\u0131mproje\\Aray\u00FCzler\\IOdemeStratejisi.cs",
+              "RelativeDocumentMoniker": "Aray\u00FCzler\\IOdemeStratejisi.cs",
+              "ToolTip": "C:\\Users\\Mert Ali \u00D6zbek\\Desktop\\tasar\u0131mproje\\Aray\u00FCzler\\IOdemeStratejisi.cs",
+              "RelativeToolTip": "Aray\u00FCzler\\IOdemeStratejisi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T15:24:39.184Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Urun.cs",
+              "DocumentMoniker": "C:\\Users\\Mert Ali \u00D6zbek\\Desktop\\tasar\u0131mproje\\Modeller\\Urun.cs",
+              "RelativeDocumentMoniker": "Modeller\\Urun.cs",
+              "ToolTip": "C:\\Users\\Mert Ali \u00D6zbek\\Desktop\\tasar\u0131mproje\\Modeller\\Urun.cs",
+              "RelativeToolTip": "Modeller\\Urun.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T15:23:36.292Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

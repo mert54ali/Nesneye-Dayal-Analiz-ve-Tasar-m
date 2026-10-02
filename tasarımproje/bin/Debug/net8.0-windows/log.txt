@@ -1,0 +1,129 @@
+<<<<<<< HEAD
+3.05.2026 21:16:00: Kredi kartından 1500,50 TL çekildi. İşlem başarılı.
+3.05.2026 21:16:00: Sipariş #6459 Onaylandı.
+3.05.2026 21:16:00: Sipariş #6459 Kargoya Verildi.
+3.05.2026 21:16:04: Kredi kartından 1500,50 TL çekildi. İşlem başarılı.
+3.05.2026 21:16:04: Sipariş #2527 Onaylandı.
+3.05.2026 21:16:04: Sipariş #2527 Kargoya Verildi.
+3.05.2026 21:16:25: Kredi kartından 1500,50 TL çekildi. İşlem başarılı.
+3.05.2026 21:16:25: Sipariş #4864 Onaylandı.
+3.05.2026 21:16:25: Sipariş #4864 Kargoya Verildi.
+3.05.2026 21:16:29: Kredi kartından 1500,50 TL çekildi. İşlem başarılı.
+3.05.2026 21:16:29: Sipariş #8676 Onaylandı.
+3.05.2026 21:16:29: Sipariş #8676 Kargoya Verildi.
+3.05.2026 21:34:40: Kredi kartından 500 TL çekildi. İşlem başarılı.
+3.05.2026 21:34:40: Sipariş #1372 Onaylandı.
+3.05.2026 21:34:40: Sipariş #1372 Kargoya Verildi.
+3.05.2026 21:47:45: Kredi kartından 500 TL çekildi. İşlem başarılı.
+3.05.2026 21:47:45: Sipariş #2648 Onaylandı.
+3.05.2026 21:47:45: Sipariş #2648 Kargoya Verildi.
+3.05.2026 22:04:09: Kredi kartından 1500 TL çekildi. İşlem başarılı.
+3.05.2026 22:04:09: Sipariş #1117 Onaylandı.
+3.05.2026 22:04:09: Sipariş #1117 Kargoya Verildi.
+3.05.2026 22:04:12: Kredi kartından 1500 TL çekildi. İşlem başarılı.
+3.05.2026 22:04:12: Sipariş #6659 Onaylandı.
+3.05.2026 22:04:12: Sipariş #6659 Kargoya Verildi.
+3.05.2026 22:04:45: Kredi kartından 1500 TL çekildi. İşlem başarılı.
+3.05.2026 22:04:45: Sipariş #5896 Onaylandı.
+3.05.2026 22:04:45: Sipariş #5896 Kargoya Verildi.
+3.05.2026 22:04:49: Kredi kartından 1500 TL çekildi. İşlem başarılı.
+3.05.2026 22:04:49: Sipariş #7996 Onaylandı.
+3.05.2026 22:04:49: Sipariş #7996 Kargoya Verildi.
+3.05.2026 23:30:34: Sipariş Başarılı: YRT-04fdb - Tutar: 1500 TL
+3.05.2026 23:30:36: Sipariş Başarılı: YRT-651bf - Tutar: 1500 TL
+3.05.2026 23:30:37: Sipariş Paketleniyor (State: Processing)
+3.05.2026 23:30:38: Kargoya Verildi (State: Shipped - Observer Bildirimi Gönderildi)
+3.05.2026 23:30:39: Teslim Edildi (State: Delivered)
+3.05.2026 23:30:56: Sipariş Başarılı: YRT-a73eb - Tutar: 1500 TL
+3.05.2026 23:31:03: Sipariş Başarılı: YRT-d397c - Tutar: 1500 TL
+3.05.2026 23:31:08: Sipariş Başarılı: YRT-77b5a - Tutar: 1500 TL
+3.05.2026 23:31:14: Sipariş Başarılı: YRT-c3010 - Tutar: 1500 TL
+3.05.2026 23:31:21: Sipariş Başarılı: YRT-9af9a - Tutar: 1500 TL
+3.05.2026 23:31:26: Sipariş Başarılı: YRT-98b07 - Tutar: 1500 TL
+3.05.2026 23:31:32: Sipariş Başarılı: YRT-ec48b - Tutar: 1500 TL
+3.05.2026 23:31:36: Sipariş Başarılı: YRT-d4fac - Tutar: 1500 TL
+3.05.2026 23:31:39: Sipariş Başarılı: YRT-b78a4 - Tutar: 1500 TL
+3.05.2026 23:31:40: Teslim Edildi (State: Delivered)
+3.05.2026 23:33:12: Sipariş Başarılı: YRT-eb235 - Tutar: 1500 TL
+3.05.2026 23:33:37: Sipariş Paketleniyor (State: Processing)
+3.05.2026 23:33:41: Kargoya Verildi (State: Shipped - Observer Bildirimi Gönderildi)
+3.05.2026 23:33:41: Teslim Edildi (State: Delivered)
+3.05.2026 23:33:43: Sipariş Başarılı: YRT-5c96d - Tutar: 1500 TL
+3.05.2026 23:33:52: Sipariş Başarılı: YRT-6992b - Tutar: 1500 TL
+3.05.2026 23:35:49: Sipariş Başarılı: YRT-599f9 - Tutar: 1500 TL
+3.05.2026 23:38:09: Sipariş Başarılı: YRT-fde96 - Tutar: 1500 TL
+3.05.2026 23:38:13: Sipariş Başarılı: YRT-252b0 - Tutar: 1500 TL
+3.05.2026 23:38:27: Sipariş Başarılı: YRT-3159a - Tutar: 1500 TL
+3.05.2026 23:40:05: Sipariş Başarılı: YRT-e84a1 - Tutar: 1500 TL
+3.05.2026 23:40:10: Sipariş Paketleniyor (State: Processing)
+3.05.2026 23:40:13: Sipariş Başarılı: YRT-abcdb - Tutar: 1500 TL
+3.05.2026 23:43:28: Sipariş Başarılı: YRT-30865 - Tutar: 1500 TL
+3.05.2026 23:47:06: Sipariş Başarılı: YRT-dbdc5 - Tutar: 1500 TL
+3.05.2026 23:49:39: Sipariş Başarılı: YRT-d1594 - Tutar: 1500 TL
+3.05.2026 23:50:19: Sipariş Başarılı: YRT-95018 - Tutar: 1500 TL
+3.05.2026 23:52:04: Sipariş Başarılı: YRT-43d1b - Tutar: 1500 TL
+=======
+3.05.2026 21:16:00: Kredi kartından 1500,50 TL çekildi. İşlem başarılı.
+3.05.2026 21:16:00: Sipariş #6459 Onaylandı.
+3.05.2026 21:16:00: Sipariş #6459 Kargoya Verildi.
+3.05.2026 21:16:04: Kredi kartından 1500,50 TL çekildi. İşlem başarılı.
+3.05.2026 21:16:04: Sipariş #2527 Onaylandı.
+3.05.2026 21:16:04: Sipariş #2527 Kargoya Verildi.
+3.05.2026 21:16:25: Kredi kartından 1500,50 TL çekildi. İşlem başarılı.
+3.05.2026 21:16:25: Sipariş #4864 Onaylandı.
+3.05.2026 21:16:25: Sipariş #4864 Kargoya Verildi.
+3.05.2026 21:16:29: Kredi kartından 1500,50 TL çekildi. İşlem başarılı.
+3.05.2026 21:16:29: Sipariş #8676 Onaylandı.
+3.05.2026 21:16:29: Sipariş #8676 Kargoya Verildi.
+3.05.2026 21:34:40: Kredi kartından 500 TL çekildi. İşlem başarılı.
+3.05.2026 21:34:40: Sipariş #1372 Onaylandı.
+3.05.2026 21:34:40: Sipariş #1372 Kargoya Verildi.
+3.05.2026 21:47:45: Kredi kartından 500 TL çekildi. İşlem başarılı.
+3.05.2026 21:47:45: Sipariş #2648 Onaylandı.
+3.05.2026 21:47:45: Sipariş #2648 Kargoya Verildi.
+3.05.2026 22:04:09: Kredi kartından 1500 TL çekildi. İşlem başarılı.
+3.05.2026 22:04:09: Sipariş #1117 Onaylandı.
+3.05.2026 22:04:09: Sipariş #1117 Kargoya Verildi.
+3.05.2026 22:04:12: Kredi kartından 1500 TL çekildi. İşlem başarılı.
+3.05.2026 22:04:12: Sipariş #6659 Onaylandı.
+3.05.2026 22:04:12: Sipariş #6659 Kargoya Verildi.
+3.05.2026 22:04:45: Kredi kartından 1500 TL çekildi. İşlem başarılı.
+3.05.2026 22:04:45: Sipariş #5896 Onaylandı.
+3.05.2026 22:04:45: Sipariş #5896 Kargoya Verildi.
+3.05.2026 22:04:49: Kredi kartından 1500 TL çekildi. İşlem başarılı.
+3.05.2026 22:04:49: Sipariş #7996 Onaylandı.
+3.05.2026 22:04:49: Sipariş #7996 Kargoya Verildi.
+3.05.2026 23:30:34: Sipariş Başarılı: YRT-04fdb - Tutar: 1500 TL
+3.05.2026 23:30:36: Sipariş Başarılı: YRT-651bf - Tutar: 1500 TL
+3.05.2026 23:30:37: Sipariş Paketleniyor (State: Processing)
+3.05.2026 23:30:38: Kargoya Verildi (State: Shipped - Observer Bildirimi Gönderildi)
+3.05.2026 23:30:39: Teslim Edildi (State: Delivered)
+3.05.2026 23:30:56: Sipariş Başarılı: YRT-a73eb - Tutar: 1500 TL
+3.05.2026 23:31:03: Sipariş Başarılı: YRT-d397c - Tutar: 1500 TL
+3.05.2026 23:31:08: Sipariş Başarılı: YRT-77b5a - Tutar: 1500 TL
+3.05.2026 23:31:14: Sipariş Başarılı: YRT-c3010 - Tutar: 1500 TL
+3.05.2026 23:31:21: Sipariş Başarılı: YRT-9af9a - Tutar: 1500 TL
+3.05.2026 23:31:26: Sipariş Başarılı: YRT-98b07 - Tutar: 1500 TL
+3.05.2026 23:31:32: Sipariş Başarılı: YRT-ec48b - Tutar: 1500 TL
+3.05.2026 23:31:36: Sipariş Başarılı: YRT-d4fac - Tutar: 1500 TL
+3.05.2026 23:31:39: Sipariş Başarılı: YRT-b78a4 - Tutar: 1500 TL
+3.05.2026 23:31:40: Teslim Edildi (State: Delivered)
+3.05.2026 23:33:12: Sipariş Başarılı: YRT-eb235 - Tutar: 1500 TL
+3.05.2026 23:33:37: Sipariş Paketleniyor (State: Processing)
+3.05.2026 23:33:41: Kargoya Verildi (State: Shipped - Observer Bildirimi Gönderildi)
+3.05.2026 23:33:41: Teslim Edildi (State: Delivered)
+3.05.2026 23:33:43: Sipariş Başarılı: YRT-5c96d - Tutar: 1500 TL
+3.05.2026 23:33:52: Sipariş Başarılı: YRT-6992b - Tutar: 1500 TL
+3.05.2026 23:35:49: Sipariş Başarılı: YRT-599f9 - Tutar: 1500 TL
+3.05.2026 23:38:09: Sipariş Başarılı: YRT-fde96 - Tutar: 1500 TL
+3.05.2026 23:38:13: Sipariş Başarılı: YRT-252b0 - Tutar: 1500 TL
+3.05.2026 23:38:27: Sipariş Başarılı: YRT-3159a - Tutar: 1500 TL
+3.05.2026 23:40:05: Sipariş Başarılı: YRT-e84a1 - Tutar: 1500 TL
+3.05.2026 23:40:10: Sipariş Paketleniyor (State: Processing)
+3.05.2026 23:40:13: Sipariş Başarılı: YRT-abcdb - Tutar: 1500 TL
+3.05.2026 23:43:28: Sipariş Başarılı: YRT-30865 - Tutar: 1500 TL
+3.05.2026 23:47:06: Sipariş Başarılı: YRT-dbdc5 - Tutar: 1500 TL
+3.05.2026 23:49:39: Sipariş Başarılı: YRT-d1594 - Tutar: 1500 TL
+3.05.2026 23:50:19: Sipariş Başarılı: YRT-95018 - Tutar: 1500 TL
+3.05.2026 23:52:04: Sipariş Başarılı: YRT-43d1b - Tutar: 1500 TL
+>>>>>>> a0005938bba87bf4dba2d87124c65b16e14df65d

@@ -1,0 +1,35 @@
+<<<<<<< HEAD
+C:\Users\Mert Ali Özbek\Desktop\tasarımproje\obj\Debug\net8.0-windows\tasarımproje.csproj.GenerateResource.cache
+C:\Users\Mert Ali Özbek\Desktop\tasarımproje\obj\Debug\net8.0-windows\tasarımproje.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mert Ali Özbek\Desktop\tasarımproje\obj\Debug\net8.0-windows\tasarımproje.AssemblyInfoInputs.cache
+C:\Users\Mert Ali Özbek\Desktop\tasarımproje\obj\Debug\net8.0-windows\tasarımproje.AssemblyInfo.cs
+C:\Users\Mert Ali Özbek\Desktop\tasarımproje\obj\Debug\net8.0-windows\tasarımproje.csproj.CoreCompileInputs.cache
+C:\Users\Mert Ali Özbek\Desktop\tasarımproje\obj\Debug\net8.0-windows\tasarımproje.Form1.resources
+C:\Users\Mert Ali Özbek\Desktop\tasarımproje\bin\Debug\net8.0-windows\tasarımproje.exe
+C:\Users\Mert Ali Özbek\Desktop\tasarımproje\bin\Debug\net8.0-windows\tasarımproje.deps.json
+C:\Users\Mert Ali Özbek\Desktop\tasarımproje\bin\Debug\net8.0-windows\tasarımproje.runtimeconfig.json
+C:\Users\Mert Ali Özbek\Desktop\tasarımproje\bin\Debug\net8.0-windows\tasarımproje.dll
+C:\Users\Mert Ali Özbek\Desktop\tasarımproje\bin\Debug\net8.0-windows\tasarımproje.pdb
+C:\Users\Mert Ali Özbek\Desktop\tasarımproje\obj\Debug\net8.0-windows\tasarımproje.dll
+C:\Users\Mert Ali Özbek\Desktop\tasarımproje\obj\Debug\net8.0-windows\refint\tasarımproje.dll
+C:\Users\Mert Ali Özbek\Desktop\tasarımproje\obj\Debug\net8.0-windows\tasarımproje.pdb
+C:\Users\Mert Ali Özbek\Desktop\tasarımproje\obj\Debug\net8.0-windows\tasarımproje.genruntimeconfig.cache
+C:\Users\Mert Ali Özbek\Desktop\tasarımproje\obj\Debug\net8.0-windows\ref\tasarımproje.dll
+=======
+C:\Users\Mert Ali Özbek\Desktop\tasarımproje\obj\Debug\net8.0-windows\tasarımproje.csproj.GenerateResource.cache
+C:\Users\Mert Ali Özbek\Desktop\tasarımproje\obj\Debug\net8.0-windows\tasarımproje.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mert Ali Özbek\Desktop\tasarımproje\obj\Debug\net8.0-windows\tasarımproje.AssemblyInfoInputs.cache
+C:\Users\Mert Ali Özbek\Desktop\tasarımproje\obj\Debug\net8.0-windows\tasarımproje.AssemblyInfo.cs
+C:\Users\Mert Ali Özbek\Desktop\tasarımproje\obj\Debug\net8.0-windows\tasarımproje.csproj.CoreCompileInputs.cache
+C:\Users\Mert Ali Özbek\Desktop\tasarımproje\obj\Debug\net8.0-windows\tasarımproje.Form1.resources
+C:\Users\Mert Ali Özbek\Desktop\tasarımproje\bin\Debug\net8.0-windows\tasarımproje.exe
+C:\Users\Mert Ali Özbek\Desktop\tasarımproje\bin\Debug\net8.0-windows\tasarımproje.deps.json
+C:\Users\Mert Ali Özbek\Desktop\tasarımproje\bin\Debug\net8.0-windows\tasarımproje.runtimeconfig.json
+C:\Users\Mert Ali Özbek\Desktop\tasarımproje\bin\Debug\net8.0-windows\tasarımproje.dll
+C:\Users\Mert Ali Özbek\Desktop\tasarımproje\bin\Debug\net8.0-windows\tasarımproje.pdb
+C:\Users\Mert Ali Özbek\Desktop\tasarımproje\obj\Debug\net8.0-windows\tasarımproje.dll
+C:\Users\Mert Ali Özbek\Desktop\tasarımproje\obj\Debug\net8.0-windows\refint\tasarımproje.dll
+C:\Users\Mert Ali Özbek\Desktop\tasarımproje\obj\Debug\net8.0-windows\tasarımproje.pdb
+C:\Users\Mert Ali Özbek\Desktop\tasarımproje\obj\Debug\net8.0-windows\tasarımproje.genruntimeconfig.cache
+C:\Users\Mert Ali Özbek\Desktop\tasarımproje\obj\Debug\net8.0-windows\ref\tasarımproje.dll
+>>>>>>> a0005938bba87bf4dba2d87124c65b16e14df65d
